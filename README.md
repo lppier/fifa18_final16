@@ -4,6 +4,8 @@
 
 Data obtained from here : https://www.kaggle.com/agostontorok/soccer-world-cup-2018-winner/data
 
+Main python notebook here : https://github.com/lppier/fifa18_final16/blob/master/fifa2018.ipynb
+
 Two datasets were used : 
 
 **Dataset 1 :** A FIFA World Ranking database of all the countries that play soccer competitively. 
