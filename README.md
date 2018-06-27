@@ -6,8 +6,9 @@ Data obtained from here : https://www.kaggle.com/agostontorok/soccer-world-cup-2
 
 Two datasets were used : 
 
-Dataset 1 : A FIFA World Ranking database of all the countries that play soccer competitively. 
-Dataset 2 : Results of all international soccer matches since 1872.
+**Dataset 1 :** A FIFA World Ranking database of all the countries that play soccer competitively. 
+
+**Dataset 2 :** Results of all international soccer matches since 1872.
 
 ## Data Preparation
 
