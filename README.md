@@ -37,6 +37,7 @@ support: [91 87]
 
 ## Prediction - Germany vs South Korea
 The model predicted that **Germany** would win the match, with 77% accuracy. 
+Also, Sweden will win Mexico tonight according to the model.
 
 ## Will be adding more as more of the final 16 are confirmed... 
 The idea is to be able to "map out" the path of the final 16, all the way to the championship game. 
