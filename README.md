@@ -41,3 +41,21 @@ Also, Sweden will win Mexico tonight according to the model.
 
 ## Will be adding more as more of the final 16 are confirmed... 
 The idea is to be able to "map out" the path of the final 16, all the way to the championship game. 
+
+## Improvements in v2
+* Matches that drawed are no longer considered as final 16 there is no draw
+* One hot is used to remove possibility that model might consider the team number a ranked value
+* Added latest results from pre-final 16 matches!
+
+area under curve: 0.8423645320197045
+
+accuracy: 0.8444444444444444
+
+precision: [ 0.81355932  0.86842105]
+
+recall: [ 0.82758621  0.85714286]
+
+fscore: [ 0.82051282  0.8627451 ]
+
+support: [58 77]
+
