@@ -4,7 +4,9 @@
 
 Data obtained from here : https://www.kaggle.com/agostontorok/soccer-world-cup-2018-winner/data
 
-Main python notebook here : https://github.com/lppier/fifa18_final16/blob/master/fifa2018.ipynb
+Previous python notebook here : https://github.com/lppier/fifa18_final16/blob/master/fifa2018.ipynb
+
+New improved model here : https://github.com/lppier/fifa18_final16/blob/master/fifa2018_improved.ipynb
 
 Two datasets were used : 
 
@@ -20,42 +22,13 @@ Two datasets were used :
 * Data Balancing was done
 
 ## Model
-* After trying several algorithms, a random forest model was eventually chosen. 
+* After trying several algorithms, a random forest model was eventually chosen.  
 
-## Metrics 
-area under curve: 0.7699254768220285
-
-accuracy: 0.7696629213483146
-
-precision: [ 0.78409091  0.75555556]
-
-recall: [ 0.75824176  0.7816092 ]
-
-fscore: [ 0.77094972  0.76836158]
-
-support: [91 87]
-
-## Prediction - Germany vs South Korea
-The model predicted that **Germany** would win the match, with 77% accuracy. 
-Also, Sweden will win Mexico tonight according to the model.
-
-## Will be adding more as more of the final 16 are confirmed... 
-The idea is to be able to "map out" the path of the final 16, all the way to the championship game. 
-
-## Improvements in v2
+# Improvements in v2
 * Matches that drawed are no longer considered as final 16 there is no draw
-* One hot is used to remove possibility that model might consider the team number a ranked value
-* Added latest results from pre-final 16 matches!
+* One hot encoding is used to remove possibility that model might consider the team number a ranked value
+* Added latest results from the new matches so far into the data!
 
-area under curve: 0.8423645320197045
-
-accuracy: 0.8444444444444444
-
-precision: [ 0.81355932  0.86842105]
-
-recall: [ 0.82758621  0.85714286]
-
-fscore: [ 0.82051282  0.8627451 ]
-
-support: [58 77]
+# Updated with Predictions for the Final 16 Quarter-Finals!
+![Figure 1-2](https://github.com/lppier/fifa18_final16/blob/master/Quarter_Predictions.png "World Cup 2018")
 
