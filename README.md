@@ -5,6 +5,7 @@
 Data obtained from here : https://www.kaggle.com/agostontorok/soccer-world-cup-2018-winner/data
 
 Previous python notebook here : https://github.com/lppier/fifa18_final16/blob/master/fifa2018.ipynb
+
 New improved model here : https://github.com/lppier/fifa18_final16/blob/master/fifa2018_improved.ipynb
 
 Two datasets were used : 
