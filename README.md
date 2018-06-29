@@ -28,5 +28,6 @@ Two datasets were used :
 * One hot encoding is used to remove possibility that model might consider the team number a ranked value
 * Added latest results from the new matches so far into the data!
 
+# Updated with Predictions for the Final 16 Quarter-Finals!
 ![Figure 1-2](https://github.com/lppier/fifa18_final16/blob/master/Quarter_Predictions.png "World Cup 2018")
 
