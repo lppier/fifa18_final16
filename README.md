@@ -22,12 +22,13 @@ Two datasets were used :
 * Data Balancing was done
 
 ## Model
-* After trying several algorithms, a random forest model was eventually chosen.  
+* After trying several algorithms, Adaboost, Neural Networks and k-Nearest Neighbors were eventually chosen.  
 
 # Improvements in v2
 * Matches that drawed are no longer considered as final 16 there is no draw
 * One hot encoding is used to remove possibility that model might consider the team number a ranked value
 * Added latest results from the new matches so far into the data!
+* Ensemble Modeling with Voting - Three classifiers used: Adaboost, Neural Networks and k-Nearest Neighbors (retired random forests)
 
 # Updated with Predictions for the Final 16 Quarter-Finals!
 ![Figure 1-2](https://github.com/lppier/fifa18_final16/blob/master/Quarter_Predictions.png "World Cup 2018")
