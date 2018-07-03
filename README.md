@@ -35,12 +35,12 @@ Two datasets were used :
 
 **Ensemble Prediction**
 1 means a win for the 1st country.
-France vs Argentina : 0 Probability 0.7537506238216767
-Uruguay vs Portugal : 0 Probability 0.5634269455951803
-Spain vs Russia : 1 Probability 0.8396692244968408
-Croatia vs Denmark : 0 Probability 0.4291791223437185
-Brazil vs Mexico : 1 Probability 0.8330163908699761
-Belgium vs Japan : 1 Probability 0.8396997204649211
-Sweden vs Switzerland : 0 Probability 0.6988071986353249
-Colombia vs England : 0 Probability 0.5637759883599832
+* France vs Argentina : 0 Probability 0.7537506238216767
+* Uruguay vs Portugal : 0 Probability 0.5634269455951803
+* Spain vs Russia : 1 Probability 0.8396692244968408
+* Croatia vs Denmark : 0 Probability 0.4291791223437185
+* Brazil vs Mexico : 1 Probability 0.8330163908699761
+* Belgium vs Japan : 1 Probability 0.8396997204649211
+* Sweden vs Switzerland : 0 Probability 0.6988071986353249
+* Colombia vs England : 0 Probability 0.5637759883599832
 
