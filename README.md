@@ -33,3 +33,14 @@ Two datasets were used :
 # Updated with Predictions for the Final 16 Quarter-Finals!
 ![Figure 1-2](https://github.com/lppier/fifa18_final16/blob/master/Quarter_Predictions.png "World Cup 2018")
 
+**Ensemble Prediction**
+1 means a win for the 1st country.
+France vs Argentina : 0 Probability 0.7537506238216767
+Uruguay vs Portugal : 0 Probability 0.5634269455951803
+Spain vs Russia : 1 Probability 0.8396692244968408
+Croatia vs Denmark : 0 Probability 0.4291791223437185
+Brazil vs Mexico : 1 Probability 0.8330163908699761
+Belgium vs Japan : 1 Probability 0.8396997204649211
+Sweden vs Switzerland : 0 Probability 0.6988071986353249
+Colombia vs England : 0 Probability 0.5637759883599832
+
