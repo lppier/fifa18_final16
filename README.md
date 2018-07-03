@@ -30,15 +30,15 @@ Two datasets were used :
 * Added latest results from the new matches so far into the data!
 * Ensemble Modeling with Voting - Three classifiers used: Adaboost, Neural Networks and k-Nearest Neighbors (retired random forests)
 
-# Updated with Predictions for the Final 16 Quarter-Finals!
+# Updated with Predictions for the Final 16 Quarter-Finals (Voting Classifier)!
 ![Figure 1-2](https://github.com/lppier/fifa18_final16/blob/master/Quarter_Predictions.png "World Cup 2018")
 
-**Ensemble Prediction**
+**Averaging probabilities among the three models**
 1 means a win for the 1st country.
 * France vs Argentina : 0 Probability 0.7537506238216767
 * Uruguay vs Portugal : 0 Probability 0.5634269455951803
 * Spain vs Russia : 1 Probability 0.8396692244968408
-* Croatia vs Denmark : 0 Probability 0.4291791223437185
+* Croatia vs Denmark : 0 Probability 0.4291791223437185 <- **Probability suggests different result from voting!** 
 * Brazil vs Mexico : 1 Probability 0.8330163908699761
 * Belgium vs Japan : 1 Probability 0.8396997204649211
 * Sweden vs Switzerland : 0 Probability 0.6988071986353249
